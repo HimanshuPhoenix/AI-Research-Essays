@@ -1,4 +1,4 @@
-# Hallucination in Generative Artificial Intelligence
+# Hallucination in Generative Artificial Intelligence: Challenges, Causes and Mitigation Strategies
 
 **Course:** DLMAISAIS01 – Seminar: AI and Society  
 **Program:** Master of Science in Artificial Intelligence  
