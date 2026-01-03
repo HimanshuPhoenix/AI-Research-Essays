@@ -6,7 +6,7 @@
 
 Preprint available on SSRN:
 
-    https://ssrn.com/abstract=5976335
+https://ssrn.com/abstract=5976335
 
 ## Abstract
 This research essay examines the phenomenon of hallucination in generative artificial intelligence systems, with a focus on large language models. It explores the underlying causes of hallucinations, including data limitations, probabilistic generation, and model architecture, and evaluates their implications for reliability, trust, and societal impact. The paper further discusses existing and emerging mitigation strategies aimed at reducing hallucinations and improving model robustness.
