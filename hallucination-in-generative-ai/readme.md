@@ -1,12 +1,12 @@
 # Hallucination in Generative Artificial Intelligence: Challenges, Causes and Mitigation Strategies
 
-**Course:** DLMAISAIS01 – Seminar: AI and Society  
-**Program:** Master of Science in Artificial Intelligence  
-**Institution:** IU Internationale Hochschule, Germany  
-
 Preprint available on SSRN:
 
 https://ssrn.com/abstract=5976335
+
+**Course:** DLMAISAIS01 – Seminar: AI and Society  
+**Program:** Master of Science in Artificial Intelligence  
+**Institution:** IU Internationale Hochschule, Germany
 
 ## Abstract
 This research essay examines the phenomenon of hallucination in generative artificial intelligence systems, with a focus on large language models. It explores the underlying causes of hallucinations, including data limitations, probabilistic generation, and model architecture, and evaluates their implications for reliability, trust, and societal impact. The paper further discusses existing and emerging mitigation strategies aimed at reducing hallucinations and improving model robustness.
